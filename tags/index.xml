@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on AKADSTUDY</title>
-    <link>https://akadstudy.github.io/2/tags/</link>
+    <link>https://akadstudy.github.io/tags/</link>
     <description>Recent content in Tags on AKADSTUDY</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>copyright &amp;copy; 2020 [akadstudy](https://akadstudy.github.io/2/) all right reserved</copyright>
     
-	<atom:link href="https://akadstudy.github.io/2/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://akadstudy.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
